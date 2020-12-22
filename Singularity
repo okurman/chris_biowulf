@@ -1,196 +1,206 @@
-absl-py==0.10.0
-ansiwrap==0.8.4
-arrow==0.15.5
-astor==0.8.1
-attrs==19.3.0
-backports-abc==0.5
-backports.functools-lru-cache==1.6.1
-backports.shutil-get-terminal-size==1.0.0
-backports.shutil-which==3.5.2
-backports.tempfile==1.0
-backports.weakref==1.0.post1
-bcolz==1.2.1
-binaryornot==0.4.4
-bleach==3.1.0
-boto==2.44.0
-cachetools==3.1.1
-certifi==2019.11.28
-chardet==3.0.4
-Click==7.0
-cloudpickle==1.2.2
-colorama==0.4.3
-configparser==4.0.2
-contextlib2==0.6.0.post1
-cookiecutter==1.7.0
-crcmod==1.7
-cryptography==1.7.1
-cycler==0.10.0
-daal==2019.0
-datalab==1.1.5
-decorator==4.4.1
-defusedxml==0.6.0
-entrypoints==0.3
-enum34==1.1.6
-funcsigs==1.0.2
-functools32==3.2.3.post2
-future==0.18.2
-futures==3.3.0
-gast==0.2.2
-gcsfs==0.2.3
-gitdb2==2.0.6
-GitPython==2.1.14
-google-api-core==1.16.0
-google-api-python-client==1.7.11
-google-auth==1.11.0
-google-auth-httplib2==0.0.3
-google-auth-oauthlib==0.4.1
-google-cloud-bigquery==1.23.1
-google-cloud-core==1.2.0
-google-cloud-dataproc==0.6.1
-google-cloud-datastore==1.10.0
-google-cloud-language==1.3.0
-google-cloud-logging==1.14.0
-google-cloud-monitoring==0.31.1
-google-cloud-spanner==1.13.0
-google-cloud-storage==1.25.0
-google-cloud-translate==2.0.0
-google-compute-engine==20191210.0
-google-pasta==0.2.0
-google-resumable-media==0.5.0
-googleapis-common-protos==1.51.0
-grpc-google-iam-v1==0.12.3
-grpcio==1.26.0
-h5py==2.10.0
-html5lib==1.0.1
-httplib2==0.17.0
-icc-rt==2020.0.133
-idna==2.8
-importlib-metadata==1.4.0
-intel-numpy==1.15.1
-intel-openmp==2020.0.133
-intel-scikit-learn==0.19.2
-intel-scipy==1.1.0
-ipaddress==1.0.17
-ipykernel==4.10.1
-ipython==5.8.0
-ipython-genutils==0.2.0
-ipython-sql==0.3.9
-ipywidgets==7.5.1
-jedi==0.16.0
-Jinja2==2.11.0
-jinja2-time==0.2.0
-jsonschema==3.2.0
-jupyter==1.0.0
-jupyter-aihub-deploy-extension==0.1
-jupyter-client==5.3.4
-jupyter-console==5.2.0
-jupyter-contrib-core==0.3.3
-jupyter-contrib-nbextensions==0.5.1
-jupyter-core==4.6.1
-jupyter-highlight-selected-word==0.2.0
-jupyter-http-over-ws==0.0.7
-jupyter-latex-envs==1.4.6
-jupyter-nbextensions-configurator==0.4.1
-Keras-Applications==1.0.8
-Keras-Preprocessing==1.1.2
-keyring==10.1
-keyrings.alt==1.3
-kiwisolver==1.1.0
-lxml==4.4.2
-Markdown==3.1.1
-MarkupSafe==1.1.1
-matplotlib==2.2.4
-mistune==0.8.4
-mkl==2019.0
-mkl-fft==1.0.6
-mkl-random==1.0.1.1
-mock==3.0.5
-monotonic==1.5
-nbconvert==5.6.1
-nbdime==1.1.0
-nbformat==4.4.0
-networkx==2.2
-nltk==3.4.5
-notebook==5.7.8
-numpy==1.16.6
-oauth2client==4.1.3
-oauthlib==3.1.0
-opencv-python==4.1.2.30
-opt-einsum==2.3.2
-pandas==0.24.2
-pandas-profiling==1.4.0
-pandocfilters==1.4.2
-papermill==1.2.1
-parso==0.6.0
-pathlib2==2.3.5
-pexpect==4.8.0
-pickleshare==0.7.5
-Pillow-SIMD==6.2.2.post1
-plotly==4.5.0
-poyo==0.5.0
-prettytable==0.7.2
-prometheus-client==0.7.1
-prompt-toolkit==1.0.15
-protobuf==3.11.2
-psutil==5.6.7
-ptyprocess==0.6.0
-pyarrow==0.15.1
-pyasn1==0.4.8
-pyasn1-modules==0.2.8
-pycrypto==2.6.1
-pydaal==2019.0.0.20180713
-pydot==1.4.1
-Pygments==2.5.2
-pygobject==3.22.0
-pyparsing==2.4.6
-pyrsistent==0.15.7
-python-dateutil==2.8.1
-pytz==2019.3
-PyWavelets==1.0.3
-pyxdg==0.25
-PyYAML==5.3
-pyzmq==18.1.1
-qtconsole==4.6.0
-requests==2.22.0
-requests-oauthlib==1.3.0
-retrying==1.3.3
-rsa==4.0
-scandir==1.10.0
-scikit-image==0.14.5
-scikit-learn==0.19.2
-scipy==1.1.0
-seaborn==0.9.1
-SecretStorage==2.3.1
-Send2Trash==1.5.0
-simplegeneric==0.8.1
-singledispatch==3.4.0.3
-six==1.14.0
-sklearn==0.0
-smmap2==2.0.5
-SQLAlchemy==1.3.13
-sqlparse==0.3.0
-subprocess32==3.5.4
-tbb==2019.0
-tbb4py==2019.0
-tenacity==6.0.0
-tensorboard==1.15.0
-tensorflow==1.15.0
-tensorflow-estimator==1.15.1
-tensorflow-gpu==1.15.0
-termcolor==1.1.0
-terminado==0.8.3
-testpath==0.4.4
-textwrap3==0.9.2
-tornado==5.1.1
-tqdm==4.42.0
-traitlets==4.3.3
-uritemplate==3.0.1
-urllib3==1.25.8
-virtualenv==16.7.9
-wcwidth==0.1.8
-webencodings==0.5.1
-Werkzeug==0.16.1
-whichcraft==0.6.1
-widgetsnbextension==3.5.1
-wrapt==1.12.1
-zipp==1.1.0
+BootStrap: docker
+From: nvidia/cuda:8.0-cudnn6-runtime-ubuntu16.04
+
+################################################################################
+%labels
+################################################################################
+MAINTAINER Ovcharenko Group
+
+################################################################################
+%environment
+################################################################################
+export PATH=/usr/local/sbin:/usr/sbin:/sbin:/bin:/usr/bin:/usr/local/bin:/usr/local/cuda/bin:
+export PYTHONPATH=/usr/share/pdb2pqr:
+
+################################################################################
+%post
+################################################################################
+
+###
+### install keras + tensorflow + other useful packages
+###
+apt-get update
+apt-get install -y graphviz locales python python-pip git python-vtk pdb2pqr python-pandas zlib1g-dev
+locale-gen en_US.UTF-8
+apt-get clean
+
+pip install --upgrade pip
+pip install absl-py==0.10.0
+pip install ansiwrap==0.8.4
+pip install arrow==0.15.5
+pip install astor==0.8.1
+pip install attrs==19.3.0
+pip install backports-abc==0.5
+pip install backports.functools-lru-cache==1.6.1
+pip install backports.shutil-get-terminal-size==1.0.0
+pip install backports.shutil-which==3.5.2
+pip install backports.tempfile==1.0
+pip install backports.weakref==1.0.post1
+pip install bcolz==1.2.1
+pip install binaryornot==0.4.4
+pip install bleach==3.1.0
+pip install boto==2.44.0
+pip install cachetools==3.1.1
+pip install certifi==2019.11.28
+pip install chardet==3.0.4
+pip install Click==7.0
+pip install cloudpickle==1.2.2
+pip install colorama==0.4.3
+pip install configparser==4.0.2
+pip install contextlib2==0.6.0.post1
+pip install cookiecutter==1.7.0
+pip install crcmod==1.7
+pip install cryptography==1.7.1
+pip install cycler==0.10.0
+pip install daal==2019.0
+pip install datalab==1.1.5
+pip install decorator==4.4.1
+pip install defusedxml==0.6.0
+pip install entrypoints==0.3
+pip install enum34==1.1.6
+pip install funcsigs==1.0.2
+pip install functools32==3.2.3.post2
+pip install future==0.18.2
+pip install futures==3.3.0
+pip install gast==0.2.2
+pip install gcsfs==0.2.3
+pip install gitdb2==2.0.6
+pip install GitPython==2.1.14
+pip install h5py==2.10.0
+pip install html5lib==1.0.1
+pip install httplib2==0.17.0
+pip install icc-rt==2020.0.133
+pip install idna==2.8
+pip install importlib-metadata==1.4.0
+pip install intel-numpy==1.15.1
+pip install intel-openmp==2020.0.133
+pip install intel-scikit-learn==0.19.2
+pip install intel-scipy==1.1.0
+pip install ipaddress==1.0.17
+pip install ipykernel==4.10.1
+pip install ipython==5.8.0
+pip install ipython-genutils==0.2.0
+pip install ipython-sql==0.3.9
+pip install ipywidgets==7.5.1
+pip install jedi==0.16.0
+pip install Jinja2==2.11.0
+pip install jinja2-time==0.2.0
+pip install jsonschema==3.2.0
+pip install jupyter==1.0.0
+pip install jupyter-aihub-deploy-extension==0.1
+pip install jupyter-client==5.3.4
+pip install jupyter-console==5.2.0
+pip install jupyter-contrib-core==0.3.3
+pip install jupyter-contrib-nbextensions==0.5.1
+pip install jupyter-core==4.6.1
+pip install jupyter-highlight-selected-word==0.2.0
+pip install jupyter-http-over-ws==0.0.7
+pip install jupyter-latex-envs==1.4.6
+pip install jupyter-nbextensions-configurator==0.4.1
+pip install Keras-Applications==1.0.8
+pip install Keras-Preprocessing==1.1.2
+pip install keyring==10.1
+pip install keyrings.alt==1.3
+pip install kiwisolver==1.1.0
+pip install lxml==4.4.2
+pip install Markdown==3.1.1
+pip install MarkupSafe==1.1.1
+pip install matplotlib==2.2.4
+pip install mistune==0.8.4
+pip install mkl==2019.0
+pip install mkl-fft==1.0.6
+pip install mkl-random==1.0.1.1
+pip install mock==3.0.5
+pip install monotonic==1.5
+pip install nbconvert==5.6.1
+pip install nbdime==1.1.0
+pip install nbformat==4.4.0
+pip install networkx==2.2
+pip install nltk==3.4.5
+pip install notebook==5.7.8
+pip install numpy==1.16.6
+pip install oauth2client==4.1.3
+pip install oauthlib==3.1.0
+pip install opencv-python==4.1.2.30
+pip install opt-einsum==2.3.2
+pip install pandas==0.24.2
+pip install pandas-profiling==1.4.0
+pip install pandocfilters==1.4.2
+pip install papermill==1.2.1
+pip install parso==0.6.0
+pip install pathlib2==2.3.5
+pip install pexpect==4.8.0
+pip install pickleshare==0.7.5
+pip install Pillow-SIMD==6.2.2.post1
+pip install plotly==4.5.0
+pip install poyo==0.5.0
+pip install prettytable==0.7.2
+pip install prometheus-client==0.7.1
+pip install prompt-toolkit==1.0.15
+pip install protobuf==3.11.2
+pip install psutil==5.6.7
+pip install ptyprocess==0.6.0
+pip install pyarrow==0.15.1
+pip install pyasn1==0.4.8
+pip install pyasn1-modules==0.2.8
+pip install pycrypto==2.6.1
+pip install pydaal==2019.0.0.20180713
+pip install pydot==1.4.1
+pip install Pygments==2.5.2
+pip install pygobject==3.22.0
+pip install pyparsing==2.4.6
+pip install pyrsistent==0.15.7
+pip install python-dateutil==2.8.1
+pip install pytz==2019.3
+pip install PyWavelets==1.0.3
+pip install pyxdg==0.25
+pip install PyYAML==5.3
+pip install pyzmq==18.1.1
+pip install qtconsole==4.6.0
+pip install requests==2.22.0
+pip install requests-oauthlib==1.3.0
+pip install retrying==1.3.3
+pip install rsa==4.0
+pip install scandir==1.10.0
+pip install scikit-image==0.14.5
+pip install scikit-learn==0.19.2
+pip install scipy==1.1.0
+pip install seaborn==0.9.1
+pip install SecretStorage==2.3.1
+pip install Send2Trash==1.5.0
+pip install simplegeneric==0.8.1
+pip install singledispatch==3.4.0.3
+pip install six==1.14.0
+pip install sklearn==0.0
+pip install smmap2==2.0.5
+pip install SQLAlchemy==1.3.13
+pip install sqlparse==0.3.0
+pip install subprocess32==3.5.4
+pip install tbb==2019.0
+pip install tbb4py==2019.0
+pip install tenacity==6.0.0
+pip install tensorboard==1.15.0
+pip install tensorflow==1.15.0
+pip install tensorflow-estimator==1.15.1
+pip install tensorflow-gpu==1.15.0
+pip install termcolor==1.1.0
+pip install terminado==0.8.3
+pip install testpath==0.4.4
+pip install textwrap3==0.9.2
+pip install tornado==5.1.1
+pip install tqdm==4.42.0
+pip install traitlets==4.3.3
+pip install uritemplate==3.0.1
+pip install urllib3==1.25.8
+pip install virtualenv==16.7.9
+pip install wcwidth==0.1.8
+pip install webencodings==0.5.1
+pip install Werkzeug==0.16.1
+pip install whichcraft==0.6.1
+pip install widgetsnbextension==3.5.1
+pip install wrapt==1.12.1
+pip install zipp==1.1.0
+###
+### destination for NIH HPC bind mounts
+###
+mkdir /gpfs /spin1 /gs2 /gs3 /gs4 /gs5 /gs6 /gs7 /gs8 /data /scratch /fdb /lscratch /pdb
